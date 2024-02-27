@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  7 17:19:49 2021
 
-@author: lars5
+
 """
 
 
